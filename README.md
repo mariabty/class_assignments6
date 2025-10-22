@@ -1,5 +1,7 @@
 # class_assignments6
 
+PART 1
+
 EXPERIMENT 6: Simple To-Do List (JavaScript Local Storage)
 
 ● Task: Build a basic To-Do list application where users can add and remove tasks.
